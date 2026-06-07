@@ -1,0 +1,11 @@
+[package]
+name = "simulated-anneal"
+version = "0.1.0"
+edition = "2021"
+description = "Simulated annealing optimization framework with multiple temperature schedules and strategies"
+license = "MIT"
+repository = "https://github.com/SuperInstance/simulated-anneal"
+keywords = ["optimization", "simulated-annealing", "metaheuristic", "algorithms"]
+categories = ["algorithms", "science"]
+
+[dependencies]
